@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |     Dr. Ashok P     |                       |                         |                          |
+| Academic       |     Dr. Ashok P     |  Assistant professor  |      ECE                |   p_ashok@cb.amrita.edu  |
 | Industry       |                     |                       |                         |                          |
 
 -----
