@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:26104
+* **Problem Statement Title:AI-Powered Real-Time Detection and Prevention of Voice Cloning Impersonation Attacks
+* **Theme / Category:Software
+* **Ministry / Organization:All India Council for Technical Education (AICTE)
