@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:26104
-* **Problem Statement Title:AI-Powered Real-Time Detection and Prevention of Voice Cloning Impersonation Attacks
+* **Problem Statement ID:26170
+* **Problem Statement Title:AI-Driven Anomaly Detection in Component Burn-In & Screening
 * **Theme / Category:Software
-* **Ministry / Organization:All India Council for Technical Education (AICTE)
+* **Ministry / Organization:Indian Space Research Organisation(ISRO)
