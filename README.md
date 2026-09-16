@@ -5,18 +5,18 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T282
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<Odyssix>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |      Harish D           |    CB.EN.U4ECE25057    |      Male       |        BTECH ECE                |  
-|    Member 2     |      Ashwanth S M       |    CB.EN.U4ECE25006    |      Male       |        BTECH ECE                |  
-|    Member 3     |      Krishna D A        |    CB.EN.U4ECE25025    |      Male       |        BTECH ECE                |  
-|    Member 4     |      S Kailash          |    CB.EN.U4ECE25037    |      Male       |        BTECH ECE                |   
-|    Member 5     |      R Rahul            |    CB.EN.U4ECE25241    |      Male       |        BTECH ECE                |  
-|    Member 6     |      Yazhini D S        |    CB.EN.U4ECE25008    |     Female      |        BTECH ECE                |   
+|   Team Leader   |      Harish D           |    CB.EN.U4ECE25057    |      Male       |            ECE                  |  
+|    Member 2     |      Ashwanth S M       |    CB.EN.U4ECE25006    |      Male       |            ECE                  |  
+|    Member 3     |      Krishna D A        |    CB.EN.U4ECE25025    |      Male       |            ECE                  |  
+|    Member 4     |      S Kailash          |    CB.EN.U4ECE25037    |      Male       |            ECE                  |   
+|    Member 5     |      R Rahul            |    CB.EN.U4ECE25241    |      Male       |            ECE                  |  
+|    Member 6     |      Yazhini D S        |    CB.EN.U4ECE25008    |     Female      |            ECE                  |   
 
 #### Mentor Details
 
