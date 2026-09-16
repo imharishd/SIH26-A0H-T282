@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T282
 ### Team Details
-#### **Team Name** <<Odyssix>> <br/>
+#### **Team Name** Odyssix <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
@@ -35,6 +35,7 @@
 * **Problem Statement Title: iTantra -Indian Multilingual TTS & STT Aided Neural Transceiver Radio Access for low bitrate links
 * **Theme / Category: Software
 * **Ministry / Organization: Indian Space Research Organisation(ISRO)
+* **Presentation Video : https://youtu.be/hO-QQ_LwU2o
 
 #### PS#2
 
