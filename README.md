@@ -11,12 +11,12 @@
 #### Team Members
 |         Role    |         👤 Name    |   🎓 Roll Number      |     ⚧️ Gender   |  🏫 Department / Programme | Caste Category | Diability Details|
 |:---------------:|:-------------------|:----------------------:|:---------------:|:--------------------------:|:---------------|------------------|
-|   Team Leader   |      Harish D      |    CB.EN.U4ECE25057    |      Male       |            ECE             |     Others     |     None         |
-|    Member 2     |      Ashwanth S M  |    CB.EN.U4ECE25006    |      Male       |            ECE             |       BC       |     None         |
-|    Member 3     |      Krishna D A   |    CB.EN.U4ECE25025    |      Male       |            ECE             |       OC       |     None         |
-|    Member 4     |      S Kailash     |    CB.EN.U4ECE25037    |      Male       |            ECE             |       BC       |     None         |
-|    Member 5     |      R Rahul       |    CB.EN.U4ECE25241    |      Male       |            ECE             |       BC       |     None         |
-|    Member 6     |      Yazhini D S   |    CB.EN.U4ECE25008    |     Female      |            ECE             |      Other     |     None         |
+|   Team Leader   |      Harish D      |    CB.EN.U4ECE25057    |      Male       |            ECE             |      Others    |     None         |
+|    Member 2     |      Ashwanth S M  |    CB.EN.U4ECE25006    |      Male       |            ECE             |        BC      |     None         |
+|    Member 3     |      Krishna D A   |    CB.EN.U4ECE25025    |      Male       |            ECE             |        OC      |     None         |
+|    Member 4     |      S Kailash     |    CB.EN.U4ECE25037    |      Male       |            ECE             |        BC      |     None         |
+|    Member 5     |      R Rahul       |    CB.EN.U4ECE25241    |      Male       |            ECE             |        BC      |     None         |
+|    Member 6     |      Yazhini D S   |    CB.EN.U4ECE25008    |     Female      |            ECE             |       Others   |     None         |
 
 #### Mentor Details
 
